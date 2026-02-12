@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Home
-image: /assets/prof.jpg
 ---
 
 # Hi, I'm Dominika!
-![Dominika Dlugosz](/assets/prof.jpg){:style="width:200px; border-radius: 50%; float: right; margin-left: 20px;"}
+<img src="/assets/prof.jpg" width="200" style="border-radius: 10px; float: right; margin-left: 20px; border: 2px solid #555;">
 
 ---
 
@@ -23,13 +22,7 @@ In particular, I am pursuing the topics of:
 
 ## 🌐 Connect With Me
 Feel free to reach out for collaborations or just a chat about... anything, really! I challenge you to find a topic I could possibly find boring.
-
-* {{ "social-github" | markdownify }} [**GitHub**](https://github.com/the-mysh)
-* {{ "social-linkedin" | markdownify }} [**LinkedIn**](https://linkedin.com/in/dominika-a-m-dlugosz)
-* {{ "social-orcid" | markdownify }} [**ORCID**](https://orcid.org/0009-0003-9303-1120)
-* {{ "social-scholar" | markdownify }} [**Google Scholar**](https://scholar.google.com/citations?user=xDhuAXf2ad8C)
-* {{ "social-email" | markdownify }} [**Email**](mailto:dominika.a.m.dlugosz@gmail.com)
-
+[**GitHub**](https://github.com/the-mysh) • [**LinkedIn**](https://linkedin.com/in/dominika-a-m-dlugosz) • [**ORCID**](https://orcid.org/0009-0003-9303-1120) • [**Google Scholar**](https://scholar.google.com/citations?user=xDhuAXf2ad8C) • [**Email**](mailto:dominika.a.m.dlugosz@gmail.com)
 ---
 
 ## 🎓 Education
