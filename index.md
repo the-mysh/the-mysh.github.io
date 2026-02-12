@@ -26,11 +26,11 @@ In particular, I am pursuing the topics of:
 ## 🌐 Connect With Me
 Feel free to reach out for collaborations or just a chat about... anything, really! I challenge you to find a topic I could possibly find boring.
 
-<a href="https://linkedin.com/in/dominika-a-m-dlugosz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/the-mysh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://orcid.org/0009-0003-9303-1120"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 <a href="https://scholar.google.com/citations?user=xDhuAXf2ad8C"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"></a>
+<a href="https://orcid.org/0009-0003-9303-1120"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+<a href="https://github.com/the-mysh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:dominika.a.m.dlugosz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://linkedin.com/in/dominika-a-m-dlugosz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
