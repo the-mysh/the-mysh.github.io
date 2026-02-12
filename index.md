@@ -4,6 +4,7 @@ title: Home
 ---
 
 # Hi, I'm Dominika!
+[📄 Download my CV](/assets/CV_DDlugosz.pdf) | [📧 Contact Me](mailto:dominika.a.m.dlugosz@gmail.com)
 <img src="/assets/prof.jpg" width="200" style="border-radius: 10px; float: right; margin-left: 20px; border: 2px solid #555;">
 
 ---

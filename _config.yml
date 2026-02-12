@@ -4,6 +4,10 @@ plugins:
 
 title: Dominika A. Długosz
 description: PhD Student in AI
-show_downloads: false
+show_downloads: true
 logo: /assets/prof.jpg
 google_analytics: G-TPKB5JRRVG
+
+github:
+  zip_url: /assets/CV_DDlugosz.pdf
+  tar_url: https://orcid.org/0009-0003-9303-1120
