@@ -37,4 +37,4 @@ Feel free to reach out for collaborations or just a chat about... anything, real
 ## 🎓 Education
 * **Ph.D. in Artificial Intelligence** | IST Lisbon, Portugal / University of Granada, Spain | *2025 – Present*
 * **M.Sc. in Artificial Intelligence** | University of Aberdeen, Scotland | *2019 – 2020*
-* **B.Sc. in Biomedical Engineering** | Lodz University of Technology | *2014 – 2028*
+* **B.Sc. in Biomedical Engineering** | Lodz University of Technology, Poland | *2014 – 2028*
