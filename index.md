@@ -5,7 +5,7 @@ title: Home
 
 # Hi, I'm Dominika!
 [📄 Download my CV](/assets/CV_DDlugosz.pdf) | [📧 Contact Me](mailto:dominika.a.m.dlugosz@gmail.com)
-<img src="/assets/profile-photo.jpg" width="180" style="border-radius: 10px; float: right; margin-left: 20px; border: 1px solid #444;">
+<img src="/assets/prof.jpg" width="180" style="border-radius: 10px; float: right; margin-left: 20px; border: 1px solid #444;">
 
 I am a first-year [ELLIS](https://ellis.eu/research/phd-postdoc) PhD Student. I'm pursuing a double degree at  [Instituto Superior Técnico (Lisbon, Portugal)](https://tecnico.ulisboa.pt/en) and [University of Granada (Spain)](https://www.ugr.es/en), under the supervision of [professor Arlindo Oliveira](https://web.tecnico.ulisboa.pt/arlindo.oliveira/) and [professor Natalia Diaz-Rodriguez](https://sites.google.com/view/nataliadiaz). While our current work is fueled by a shared passion for AI, we are also connected by a common history: all three of us have, at different chapters of our careers, spent time working at [CERN](home.cern)!
 
