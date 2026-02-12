@@ -2,8 +2,8 @@ remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Dominika A. Dlugosz
-tagline: AI PhD Student
-description: Personal page
+title: Dominika A. Długosz
+description: PhD Student in AI
 show_downloads: false
+logo: /assets/prof.jpg
 google_analytics: G-TPKB5JRRVG
