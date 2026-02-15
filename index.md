@@ -34,6 +34,6 @@ Feel free to reach out for collaborations or just a chat about... anything, real
 ---
 
 ## 🎓 Education
-* **PhD. in Artificial Intelligence** | [IST Lisbon](https://tecnico.ulisboa.pt/en/), Portugal / [University of Granada](https://decsai.ugr.es/en), Spain | *2025 – Present*
+* **PhD in Artificial Intelligence** | [IST Lisbon](https://tecnico.ulisboa.pt/en/), Portugal / [University of Granada](https://decsai.ugr.es/en), Spain | *2025 – Present*
 * **MSc in Artificial Intelligence** | [University of Aberdeen](https://www.abdn.ac.uk/ncs/), Scotland | *2019 – 2020*
 * **BSc in Biomedical Engineering** | [Lodz University of Technology](https://www.ife.p.lodz.pl/en), Poland | *2014 – 2018*
