@@ -16,8 +16,7 @@ My research interests revolve around the idea of _making Artificial Intelligence
 In particular, I am pursuing the topics of:
 * the dual-process theory of reasoning,
 * long-term and working memory,
-* metacognition,
-* agency and thaumazein.
+* epistemic curiosity (computational _thaumazein_).
 
 > I believe we should strive to incorporate the rich biological priors in AI while avoiding the limitations inherent in the natural design.
 
@@ -37,4 +36,4 @@ Feel free to reach out for collaborations or just a chat about... anything, real
 ## 🎓 Education
 * **Ph.D. in Artificial Intelligence** | IST Lisbon, Portugal / University of Granada, Spain | *2025 – Present*
 * **M.Sc. in Artificial Intelligence** | University of Aberdeen, Scotland | *2019 – 2020*
-* **B.Sc. in Biomedical Engineering** | Lodz University of Technology, Poland | *2014 – 2028*
+* **B.Sc. in Biomedical Engineering** | Lodz University of Technology, Poland | *2014 – 2018*
